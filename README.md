@@ -14,18 +14,18 @@ Neste projeto foi utilizado o pacote do Breeze do Laravel, que  fornece um conju
 
 <p align="center">
 
-  <img alt="Blog10"  src=".srcReadme/image4.png" width="400px">
+  <img alt="Blog10"  src="srcReadme/image4.png" width="400px">
 
-  <img alt="Blog10"  src=".srcReadme/image3.png" width="400px">
+  <img alt="Blog10"  src="srcReadme/image3.png" width="400px">
     
-  <img alt="Blog10"  src=".srcReadme/image2.png" width="400px">
+  <img alt="Blog10"  src="srcReadme/image2.png" width="400px">
 
-  <img alt="Blog10"  src=".srcReadme/image1.png" width="400px">
+  <img alt="Blog10"  src="srcReadme/image1.png" width="400px">
 
 </p>
 
-
-![Veja o vídeo](srcReadme/blog10.mp4)
+Link do vídeo: 
+https://www.vidline.com/share/V0WRHL51G2/3b4a05ca91767117d148a5ba9543f7ff
 
 ## 🛠 Tecnologias e Conhecimentos desenvolvidos
 

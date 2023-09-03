@@ -27,6 +27,7 @@ class PostRequest extends FormRequest
             'body' => 'required',
             'user' => 'required',
             'thumb' => ['nullable', 'image', 'dimensions:max_width=1000,max_height=1000', 'mimes:jpg,png,svg']
+
         ];
     }
 
